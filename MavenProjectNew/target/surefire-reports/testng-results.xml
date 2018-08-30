@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="178351" started-at="2018-08-30T19:15:37Z" finished-at="2018-08-30T19:18:35Z">
+    <groups>
+    </groups>
+    <test name="MavenTest" duration-ms="178351" started-at="2018-08-30T19:15:37Z" finished-at="2018-08-30T19:18:35Z">
+      <class name="com.regression.testscripts.VerifyAutomationTesting">
+        <test-method status="PASS" signature="verifyRegister()[pri:0, instance:com.regression.testscripts.VerifyAutomationTesting@5e025e70]" name="verifyRegister" duration-ms="178333" started-at="2018-08-30T15:15:37Z" finished-at="2018-08-30T15:18:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegister -->
+      </class> <!-- com.regression.testscripts.VerifyAutomationTesting -->
+    </test> <!-- MavenTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

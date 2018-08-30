@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [RegressionSuite]">
+  <test name="MavenTest(failed)">
+    <classes>
+      <class name="com.regression.testscripts.VerifyAutomationTesting">
+        <methods>
+          <include name="verifyRegister"/>
+        </methods>
+      </class> <!-- com.regression.testscripts.VerifyAutomationTesting -->
+    </classes>
+  </test> <!-- MavenTest(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->
